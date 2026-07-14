@@ -1,0 +1,68 @@
+# -------------------------------------------------------------------------
+# Dart & Flutter GitIgnore Template
+# Custom configured for ITI Summer Training Tasks & Apps
+# -------------------------------------------------------------------------
+
+# https://dart.dev/guides/libraries/private-files
+# Created by https://www.toptal.com/developers/gitignore/api/flutter,dart
+
+# Miscellaneous
+# -------------
+*.log
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+# ----------------
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.sublime-project
+*.sublime-workspace
+.metadata
+
+# Dart Tooling
+# ------------
+.dart_tool/
+.packages
+package_config.json
+.pub-cache/
+.pub/
+build/
+
+# Flutter specific
+# ----------------
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# Android specific
+# ----------------
+android/app/local.properties
+android/key.properties
+*.keystore
+*.jks
+
+# iOS specific
+# ------------
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+ios/Pods/
+Pods/
+DerivedData/
+
+# Web specific
+# ------------
+node_modules/
+
+# Local/Private configuration
+# ---------------------------
+.env
+.env.*
