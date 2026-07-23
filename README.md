@@ -35,8 +35,10 @@ Below is the directory layout of this repository, showing the organization of th
 │   ├── 02-news_app/
 │   │   └── readme.md (References external GitHub repository)
 │   └── 03-men_store/
-│       └── readme.md (References external GitHub repository)
-|       04-clothes_store/
+│   |    └── readme.md (References external GitHub repository)
+|   └── 04-clothes_store/
+│   |    └── readme.md (References external GitHub repository)
+|   └── 05-Hogwarts_students/
 │       └── readme.md (References external GitHub repository)
 ├── .gitignore
 └── README.md
